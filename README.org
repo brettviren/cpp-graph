@@ -1,0 +1,12 @@
+#+title: cpp-graph
+
+The ~cpp-graph~ program produces graphs from C++ code.
+
+For information on use see [[docs/cpp-graph.org]].
+
+* Install
+
+#+begin_example
+$ uv tool install install git+https://github.com/brettviren/cpp-graph
+#+end_example
+
